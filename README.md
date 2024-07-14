@@ -1,7 +1,4 @@
 # Git-and-Github-
-Here's a proper description to include in the README file for your Git and GitHub installation instructions:
-
----
 
 # Git and GitHub Installation Guide
 
