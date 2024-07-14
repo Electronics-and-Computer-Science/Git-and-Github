@@ -1,7 +1,3 @@
-Here's a proper description to include in the README file for your Git and GitHub installation instructions:
-
----
-
 # Git and GitHub Installation Guide
 
 ## Overview
@@ -109,7 +105,3 @@ Download a TOTP app of your choice to your phone or desktop.
 7. Click **I have saved my recovery codes** to enable two-factor authentication.
 
 Optional: Configure additional 2FA methods to reduce the risk of account lockout. For more details, see GitHub's documentation on configuring two-factor authentication using a security key.
-
----
-
-This README provides a clear and concise guide to installing Git, VS Code, and setting up GitHub with enhanced security features.
